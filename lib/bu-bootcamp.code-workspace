@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "bu-bootcamp",
+			"path": ".."
+		},
+		{
+			"name": "Module1",
+			"path": "../../Module1"
+		},
+		{
+			"path": "../../Module 2"
+		},
+		{
+			"path": "../../module 3"
+		}
+	],
+	"settings": {}
+}
