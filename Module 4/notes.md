@@ -1,0 +1,1 @@
+In Module 4 I learned how to create and close a github repository as well as how to use some of the most common git commands in the terminal such as git status, git add, git commit, git push, git checkout -b, git pull, etc.. 
